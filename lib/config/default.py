@@ -109,7 +109,7 @@ _C.TRAIN.ENC_DET_ONLY = False       # Only train encoder and detection branch
 # Single task 
 _C.TRAIN.DRIVABLE_ONLY = False      # Only train da_segmentation task
 _C.TRAIN.LANE_ONLY = False          # Only train ll_segmentation task
-_C.TRAIN.DET_ONLY = False          # Only train detection task
+_C.TRAIN.DET_ONLY = True          # Only train detection task
 
 
 

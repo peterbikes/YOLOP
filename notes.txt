@@ -1,0 +1,5 @@
+./lib/config/default.py to True - line 112 altered to true:
+
+`_C.TRAIN.DET_ONLY = True          # Only train detection task`
+
+dataset created and moved into tools/jetracer_dataset
